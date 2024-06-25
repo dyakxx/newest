@@ -1,0 +1,5 @@
+# /dev/mapper/hk-root
+UUID=40a21644-60b7-439e-bfaf-3658ae4e3c58	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1
+UUID=be147961-4393-42d4-986a-d426c0d32de7	/boot     	ext4      	rw,relatime	0 2
